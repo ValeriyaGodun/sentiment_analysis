@@ -26,8 +26,10 @@
 
 <img width="551" height="400" alt="image" src="https://github.com/user-attachments/assets/3a518311-43aa-48b3-bb14-4273a9f8cb2d" />
 
-<img width="1297" height="361" alt="image" src="https://github.com/user-attachments/assets/e1d0fa22-1974-40cc-ad2a-63a64e98e7b0" />
 
+<p align="center">
+  <img width="1297" height="361" alt="image" src="https://github.com/user-attachments/assets/e1d0fa22-1974-40cc-ad2a-63a64e98e7b0" />
+</p>
 
 ## Ноутбук `1.sentiment_logreg.ipynb`
 
@@ -58,7 +60,7 @@
 1. **GRUMultiLabel:** двунаправленная GRU и линейный классификатор с 'BCEWithLogitsLoss'. Модель решает задачу детекции банков.
 2. **BankAwareGRUClassifier:** двунаправленная GRU с функцией потерь — 'CrossEntropyLoss' с весами классов. Модель прогнозирует тональность текста относительно конкретного банка. 
 
-### Обучение:
+### Обучение
 
 - Используются оптимизаторы Adam и AdamW;
 - Чекпоинты 'banks_model_best.pt' и 'sentiment_best_model.pt' сохраняются в ClearML.
