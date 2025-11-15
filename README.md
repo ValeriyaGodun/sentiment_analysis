@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img width="1297" height="361" alt="image" src="https://github.com/user-attachments/assets/e1d0fa22-1974-40cc-ad2a-63a64e98e7b0" />
+  <img width="1321" height="363" alt="image" src="https://github.com/user-attachments/assets/a7499204-1705-4bdf-b194-eda96c09aa74" />
 </p>
 
 ## Ноутбук `1.sentiment_logreg.ipynb`
@@ -73,9 +73,18 @@
 ### Итоги
 Для модели определения банка macro F1 около 0.97, для определения сентимента - 0.73. Усредненная macro F1 на тестовой выборке — около 0.74.
 
-<img width="684" height="465" alt="image" src="https://github.com/user-attachments/assets/1b169aec-5da5-4f04-964d-f83de5e2b8af" /> <img width="690" height="462" alt="image" src="https://github.com/user-attachments/assets/b0fef4d6-7262-4b94-a519-ba2ab9d4398b" />
-
-<img width="689" height="462" alt="image" src="https://github.com/user-attachments/assets/fea09d62-8160-4ebf-a138-71b4d9a92727" /> <img width="682" height="464" alt="image" src="https://github.com/user-attachments/assets/545ad4d0-9e94-4054-bed7-68e37f39bb0b" />
+<p align="center">
+  <img width="684" height="465" alt="image" src="https://github.com/user-attachments/assets/1b169aec-5da5-4f04-964d-f83de5e2b8af" />
+</p>
+<p align="center">
+  <img width="690" height="462" alt="image" src="https://github.com/user-attachments/assets/b0fef4d6-7262-4b94-a519-ba2ab9d4398b" />
+</p>
+<p align="center">
+  <img width="689" height="462" alt="image" src="https://github.com/user-attachments/assets/fea09d62-8160-4ebf-a138-71b4d9a92727" />
+</p>
+<p align="center">
+  <img width="682" height="464" alt="image" src="https://github.com/user-attachments/assets/545ad4d0-9e94-4054-bed7-68e37f39bb0b" />
+</p> 
 
 ## Сравнение подходов
 
